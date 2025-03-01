@@ -56,15 +56,22 @@ Tested multiple models to predict employee attrition:
 	•	Feature Importance analysis to determine key factors driving attrition
 
 **Key Findings & Insights**
-	•	Employees with low satisfaction levels are more likely to leave
-	•	Higher work hours & more projects contribute to higher attrition
-	•	Low salary employees have the highest attrition rate
-	•	There doesn't seem to be any department that differs significantly in its proportion of employees who left to those who stayed.
+	
+ •	Employees with low satisfaction levels are more likely to leave
+
+ •	Higher work hours & more projects contribute to higher attrition
+
+ •	Low salary employees have the highest attrition rate
+
+ •	There doesn't seem to be any department that differs significantly in its proportion of employees who left to those who stayed.
 
 **Technologies Used**
-	•	Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-	•	Machine Learning: Logistic Regression, Random Forest, Decision Tree
-	•	Jupyter Notebook
+	
+ •	Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+ •	Machine Learning: Logistic Regression, Random Forest, Decision Tree
+
+ •	Jupyter Notebook
 	
 
 **Summary of model results**
