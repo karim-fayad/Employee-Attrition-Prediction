@@ -1,4 +1,4 @@
-**#Employee Attrition Prediction – Google Advanced Data Analytics Capstone**
+# Employee Attrition Prediction – Google Advanced Data Analytics Capstone
 
 **Project Overview**
 
