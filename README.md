@@ -7,8 +7,11 @@ This project analyzes employee attrition at Salifort Motors, a fictional company
 **Business Problem**
 
 High employee turnover can lead to significant costs for a company. The objective of this project is to:
+
 ✔ Identify the key factors influencing employee attrition
+
 ✔ Build a predictive model to determine if an employee is likely to leave
+
 ✔ Provide actionable insights to improve employee retention
 
 **Dataset Description**
@@ -41,8 +44,11 @@ The dataset contains information on employee job performance, workload, and comp
 **3. Model Selection & Training**
 
 Tested multiple models to predict employee attrition:
+
 ✅ Logistic Regression
+
 ✅ Random Forest 
+
 ✅ Decision tree
 
 **4. Model Evaluation**
